@@ -19,7 +19,7 @@ body {
     display: flex;
     justify-content: space-around;
     align-items: center;
-    padding: 1rem 2rem;
+    padding: 1rem 1rem;
     background-color: #6C48F0;
     color: #FFFFFF;
     position: fixed;
