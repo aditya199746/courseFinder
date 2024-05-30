@@ -1072,6 +1072,7 @@ color: #0E1B2C;
 
     .slider-container{
         width: 82%;
+        margin-left: 5rem;
     }
     .img-container{
         width: 100%;
@@ -1079,7 +1080,7 @@ color: #0E1B2C;
     }
 
     .slider{
-        width: 70%;
+        width: 80%;
     }
 
     .slider-inner{
@@ -1166,6 +1167,10 @@ color: #0E1B2C;
       .menu-toggle:checked + .menu-icon + .menu-items-container {
         display: flex;
       }
+
+      .btn-container-services{
+        margin-left: 5rem;
+    }
 
       #mySelect{
         margin: 10px 0 10px 0;
