@@ -19,7 +19,7 @@ body {
     display: flex;
     justify-content: space-around;
     align-items: center;
-    padding: 1rem 1rem;
+    padding: 1rem 1.5rem;
     background-color: #6C48F0;
     color: #FFFFFF;
     position: fixed;
@@ -38,7 +38,7 @@ body {
   
   main{
     position: relative;
-    top: 11%;
+    top: 0;
     left: 0;
   }
 
@@ -160,6 +160,7 @@ body {
     width: 100%;
     height: auto;
     position: relative;
+    padding-top: 186px;
   }
 
   .detail-section::before{
